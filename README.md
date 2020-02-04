@@ -1,5 +1,22 @@
 # 51 Great Questions to Ask in an Interview
 
+> A collection for interview questions to ask your interviewer
+
+## Table Of Contents
+
+
+<!-- vim-markdown-toc GFM -->
+* [Questions to Ask About the Job](Questions-to-Ask-About-the-Job)
+* [Questions to Ask About Training & Professional Development](Questions-to-Ask-About-Training-&-Professional-Development)
+* [Questions to Ask About Your Performance](Questions-to-Ask-About-Your-Performance)
+* [Questions to Ask About the Interviewer](Questions-to-Ask-About-the-Interviewer)
+* [Questions to Ask About the Company](Questions-to-Ask-About-the-Company)
+* [Questions to Ask About the Team](Questions-to-Ask-About-the-Team)
+* [Questions to Ask About the Culture](Questions-to-Ask-About-the-Culture)
+* [Questions to Ask About Next Steps](Questions-to-Ask-About-Next-Steps)
+
+<!-- vim-markdown-toc -->
+
 # Questions to Ask About the Job
 - What does a typical day look like?
 - What are the most immediate projects that need to be addressed?
@@ -12,7 +29,7 @@
 - Is this a new role that has been created?
 - Do you expect the main responsibilities for this position to change in the next six months to a year?
 
-# Questions to Ask About Training and Professional Development
+# Questions to Ask About Training & Professional Development
 - How will I be trained?
 - What training programs are available to your employees?
 - Are there opportunities for advancement or professional development?
