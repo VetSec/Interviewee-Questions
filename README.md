@@ -1,5 +1,4 @@
-# intervieweequestions
-51 Great Questions to Ask in an Interview
+# 51 Great Questions to Ask in an Interview
 
 # Questions to Ask About the Job
 - What does a typical day look like?
